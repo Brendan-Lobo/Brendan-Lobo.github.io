@@ -22,3 +22,7 @@ header_pages:
   - Projects.md
   - Publications.md
 
+params:
+  assets:
+    favicon: "🛠️"
+
