@@ -12,6 +12,8 @@ permalink: /publications/
 > 
 > Read Now: [https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070](https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070)
 
+---
+
 # 2019
 
 > #### **Interpreting Student Responses Using Sentiment Analysis and Text-Analytics**
