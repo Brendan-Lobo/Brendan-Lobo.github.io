@@ -22,7 +22,3 @@ header_pages:
   - Projects.md
   - Publications.md
 
-params:
-  assets:
-    favicon: "assets/fluentui-hammer_and_wrench-emoji.ico"
-
