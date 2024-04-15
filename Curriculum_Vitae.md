@@ -140,8 +140,8 @@ May - Aug. 2023, Sep. 2023 - Apr. 2024
 >**University of Toronto**  
 >Sep. 2019
 >
->- Admission scholarship to U of T’s TackOne, Undeclared engineering program based on academic merit.
->- Total amount: $2000
+>- *Admission scholarship to U of T’s TackOne, Undeclared engineering program based on academic merit.*
+>- *Total amount: $2000*
 
 ---
 
