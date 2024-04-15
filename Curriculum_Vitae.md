@@ -129,7 +129,7 @@ May - Aug. 2023, Sep. 2023 - Apr. 2024
 >#### ***First Year Summer Research Fellowship***
 >
 >**University of Toronto**  
->May 2020 - Aug. 2020
+>May - Aug. 2020
 >
 >- *Prestigious scholarship awarded to 7-12 first-year engineering students based on academic excellence and research potential.*
 >- *Conducted research in engineering education with the First Year Engineering Education Research Group.*
