@@ -34,7 +34,7 @@ permalink: /curriculum_vitae/
 >
 >*[FASE](https://www.engineering.utoronto.ca/) - University of Toronto*
 >
->^*Jan. - Feb. 2021, Feb. - Mar. 2021, Sep. - Nov. 2021, Nov. 2021, Aug. - Nov. 2022, Jan. - Apr. 2023, May - Aug. 2023, Aug. - Sep. 2023, Sep. - Nov. 2023, Nov. - Dec. 2023*^
+>*Jan. - Mar. 2021, Sep. - Nov. 2021, Aug. - Nov. 2022, Jan. - Dec. 2023*
 >
 >- Reduced TA training evaluation times from 4 hours to a few seconds by coding a Python script that auto-evaluates a TA’s training completion based on their working group’s criteria.
 >- Converted the auto-evaluation Python script into an Excel macro using Visual Basic for Applications to prevent a drop in efficiency from future non-technical staff.
@@ -59,65 +59,64 @@ permalink: /curriculum_vitae/
 > - [Investigated](https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070) how large-language models can be used to derive insight from unprompted student questions on Piazza discussion boards.
 > - Analyzed survey and discussion data using tools such as Pytorch, Hugging Face Transformers, and ChatGPT.
 
-#### **Student Analyst - First Year Curriculum**
+>#### **Student Analyst - First Year Curriculum**
+>
+>*[FYEER Group](https://istep.utoronto.ca/people/chirag-variawa/) - University of Toronto*
+>
+>*May - Feb. 2021*
+>
+>- [Investigated](https://doi.org/10.24908/pceea.vi0.14866) how the Expectancy Value Theorem can be implemented with NVivo to gain insight into student motivation levels by analyzing class discussion boards.
 
-*[FYEER Group](https://istep.utoronto.ca/people/chirag-variawa/) - University of Toronto*
-
-
-*May - Aug. 2020, Sep. 2020 - Feb. 2021*
-
-- [Investigated](https://doi.org/10.24908/pceea.vi0.14866) how the Expectancy Value Theorem can be implemented with NVivo to gain insight into student motivation levels by analyzing class discussion boards.
-
-#### **Student Intern - Computer Repair Technician**
-
-*[Fujitech Technologies](https://www.fujitech.ca/)*
-
-*Jul. 2018, Jul. 2019*
-
-- Repaired hardware issues in laptops from a variety of manufacturers including Apple, Dell, Acer, Lenovo. etc.
-- Built custom PC workstations for private individuals and larger corporations.
-- Resolved software issues in Windows and MacOS.
+>#### **Student Intern - Computer Repair Technician**
+>
+>*[Fujitech Technologies](https://www.fujitech.ca/)*
+>
+>*Jul. 2018, Jul. 2019*
+>
+>- Repaired hardware issues in laptops from a variety of manufacturers including Apple, Dell, Acer, Lenovo. etc.
+>- Built custom PC workstations for private individuals and larger corporations.
+>- Resolved software issues in Windows and MacOS.
 
 ---
 
 # Volunteer Experience
 
-#### **Webmaster**
+>#### **Webmaster**
+>
+>*[HiSkule](https://hiskule.skule.ca/home/)*
+>
+>*Jul. 2022 - Jun. 2023*
+>
+>- Completely redesigned the club website using WordPress by modernizing the aesthetic and providing a more intuitive user interface.
+>- Maintained and updated the club website to attract hundreds of students to Hi-Skule engineering outreach events throughout the year.
+>- Mentored and encouraged high school students at events to pursue engineering at U of T by leading hands-on activities.
 
-*[HiSkule](https://hiskule.skule.ca/home/)*
+>#### **Member - Mechanical Powertrain**
+>
+>*[University of Toronto Formula Racing Team](https://fsaeutoronto.ca/)*
+>
+>*Aug. 2021 - May 2022*
+>
+>- Used SOLIDWORKS to design mounts for coolant pumps and the car's chain guard.
+>- Led workshops for junior members on designing parts to be manufactured using forged carbon fibre.
 
-*Jul. 2022 - Jun. 2023*
+>#### **Member - Business**
+>
+>*[University of Toronto Formula Racing Team](https://fsaeutoronto.ca/)*
+>
+>*Nov. 2020 - May 2022*
+>
+>- Secured over $10,000 of in-kind sponsorships by reaching out via email and phone to potential sponsor companies.
+>- Curated Instagram posts highlighting team progress and sponsor shout-outs.
+>- Maintained and updated the team website using Squarespace.
 
-- Completely redesigned the club website using WordPress by modernizing the aesthetic and providing a more intuitive user interface.
-- Maintained and updated the club website to attract hundreds of students to Hi-Skule engineering outreach events throughout the year.
-- Mentored and encouraged high school students at events to pursue engineering at U of T by leading hands-on activities.
-
-#### **Member - Mechanical Powertrain**
-
-*[University of Toronto Formula Racing Team](https://fsaeutoronto.ca/)*
-
-*Aug. 2021 - May 2022*
-
-- Used SOLIDWORKS to design mounts for coolant pumps and the car's chain guard.
-- Led workshops for junior members on designing parts to be manufactured using forged carbon fibre.
-
-#### **Member - Business**
-
-*[University of Toronto Formula Racing Team](https://fsaeutoronto.ca/)*
-
-*Nov. 2020 - May 2022*
-
-- Secured over $10,000 of in-kind sponsorships by reaching out via email and phone to potential sponsor companies.
-- Curated Instagram posts highlighting team progress and sponsor shout-outs.
-- Maintained and updated the team website using Squarespace.
-
-#### **Member - Aerodynamics**
-
-*University of Toronto Formula Racing Team*
-
-*Nov. 2020 - Nov. 2021*
-
-- Nearly doubled the downforce generated by the car's undertray via iterative re-design and evaluation using SOLIDWORKS and Simcenter STAR-CCM+.
+>#### **Member - Aerodynamics**
+>
+>*[University of Toronto Formula Racing Team](https://fsaeutoronto.ca/)*
+>
+>*Nov. 2020 - Nov. 2021*
+>
+>- Approximately doubled the downforce generated by the car's undertray via iterative re-design and evaluation using SOLIDWORKS and Simcenter STAR-CCM+.
 
 ---
 
