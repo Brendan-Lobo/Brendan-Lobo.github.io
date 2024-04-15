@@ -6,7 +6,7 @@ permalink: /curriculum_vitae/
 
 # Education
 
-#### ***B.A.Sc in Mechanical Engineering***
+#### **B.A.Sc in Mechanical Engineering**
 
 *University of Toronto*
 *Sep. 2019 - Apr. 2024*
@@ -20,7 +20,7 @@ permalink: /curriculum_vitae/
 
 # Work Experience
 
->#### **Undergraduate Researcher**
+>#### ***Undergraduate Researcher***
 >
 >*[Guenther Laboratory](https://guentherlab.mie.utoronto.ca/) - University of Toronto*
 >
@@ -30,7 +30,7 @@ permalink: /curriculum_vitae/
 >- Created custom DC-electrical circuits to synchronize pressure wave generation with PIV measurements.
 >- Utilized SU-8 soft-lithography, FDM & multi-jet 3D printing, laser cutting, and manual machining to construct experimental setups designed with SOLIDWORKS and AutoCAD.
 
->#### **Assistant TA Training Platform Administrator**
+>#### ***Assistant TA Training Platform Administrator***
 >
 >*[FASE](https://www.engineering.utoronto.ca/) - University of Toronto*
 >
@@ -40,7 +40,7 @@ permalink: /curriculum_vitae/
 >- Converted the auto-evaluation Python script into an Excel macro using Visual Basic for Applications to prevent a drop in efficiency from future non-technical staff.
 >- Co-created an interactive training platform using the Canvas LMS for virtual training of engineering TAs
 
->#### **Teaching Assistant (TA)**
+>#### ***Teaching Assistant (TA)***
 >
 >*[APS100](https://engineering.calendar.utoronto.ca/course/aps100h1) - University of Toronto*
 >
@@ -50,7 +50,7 @@ permalink: /curriculum_vitae/
 >- Helped students find and navigate resources available at U of T such as academic advisors and learning strategists.
 >- Provided training for new Teaching Assistants regarding facilitation and classroom management.
 
-> #### **Senior Student Analyst - First Year Curriculum**
+> #### ***Senior Student Analyst - First Year Curriculum***
 >
 > *[FYEER Group](https://istep.utoronto.ca/people/chirag-variawa/) - University of Toronto*
 >
@@ -59,7 +59,7 @@ permalink: /curriculum_vitae/
 > - [Investigated](https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070) how large-language models can be used to derive insight from unprompted student questions on Piazza discussion boards.
 > - Analyzed survey and discussion data using tools such as Pytorch, Hugging Face Transformers, and ChatGPT.
 
->#### **Student Analyst - First Year Curriculum**
+>#### ***Student Analyst - First Year Curriculum***
 >
 >*[FYEER Group](https://istep.utoronto.ca/people/chirag-variawa/) - University of Toronto*
 >
@@ -67,7 +67,7 @@ permalink: /curriculum_vitae/
 >
 >- [Investigated](https://doi.org/10.24908/pceea.vi0.14866) how the Expectancy Value Theorem can be implemented with NVivo to gain insight into student motivation levels by analyzing class discussion boards.
 
->#### **Student Intern - Computer Repair Technician**
+>#### ***Student Intern - Computer Repair Technician***
 >
 >*[Fujitech Technologies](https://www.fujitech.ca/)*
 >
@@ -132,30 +132,30 @@ permalink: /curriculum_vitae/
 
 # Skills
 
->#### **Software**
->
->- SOLIDWORKS / Fusion 360
->- AutoCAD
->- Ansys Mechanical
->- DaVis 8 / OpenPIV
->- PrusaSlicer / OrcaSlicer / Cura
->- NVivo 12 Pro
->- Microsoft Office / Google Workspace / LibreOffice
->- WordPress / Squarespace / Wix / GitHub Pages
->- Photoshop / Affinity Photo / GIMP
->- Premier Pro / Blender VSE
+#### **Software**
 
->#### **Programming Languages**
->
->- C / C++
->- Python
->- MATLAB
->- Visual Basic for Applications (VBA)
->- Assembly
+- SOLIDWORKS / Fusion 360
+- AutoCAD
+- Ansys Mechanical
+- DaVis 8 / OpenPIV
+- PrusaSlicer / OrcaSlicer / Cura
+- NVivo 12 Pro
+- Microsoft Office / Google Workspace / LibreOffice
+- WordPress / Squarespace / Wix / GitHub Pages
+- Photoshop / Affinity Photo / GIMP
+- Premier Pro / Blender VSE
 
->#### **Programming Tools**
->
->- Git
->- Pandas / NumPy / Matplotlib / Plotly
->- PyTorch
->- Visual Studio Code / Arduino IDE
+#### **Programming Languages**
+
+- C / C++
+- Python
+- MATLAB
+- Visual Basic for Applications (VBA)
+- Assembly
+
+#### **Programming Tools**
+
+- Git
+- Pandas / NumPy / Matplotlib / Plotly
+- PyTorch
+- Visual Studio Code / Arduino IDE
