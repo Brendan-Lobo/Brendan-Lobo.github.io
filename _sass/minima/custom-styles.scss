@@ -6,7 +6,6 @@
     border-left: 4px solid $border-color-01;
     padding-left: $spacing-unit * .5;
     @include relative-font-size(1);
-    font-style: normal;
   
     > :last-child {
       margin-bottom: 0;

@@ -112,7 +112,7 @@ permalink: /curriculum_vitae/
 
 # Certifications
 
-[**Certified SOLIDWORKS Associate in Mechanical Design**](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-JNW6HMXZB8)
+#### [**Certified SOLIDWORKS Associate in Mechanical Design**](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-JNW6HMXZB8)
 
 ---
 
