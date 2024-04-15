@@ -2,9 +2,16 @@ theme: minima
 title: Brendan Lobo
 
 minima:
-  skin: auto
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/Brendan-Lobo" }
+    - { platform: linkedin, user_url: "https://ca.linkedin.com/in/brendanrlobo" }
 
 header_pages:
   - Curriculum_Vitae.md
   - Projects.md
   - Publications.md
+
+author:
+  name: Brendan Lobo
+  email: "b.lobo@mail.utoronto.ca"
