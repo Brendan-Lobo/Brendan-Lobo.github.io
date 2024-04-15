@@ -4,7 +4,7 @@ author:
   name: "Brendan Lobo"
   email: "b.lobo@mail.utoronto.ca"
 
-remote_theme: pages-themes/minima@v0.2.0
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
