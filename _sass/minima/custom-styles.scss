@@ -1,0 +1,16 @@
+/**
+* Blockquotes
+*/
+blockquote {
+    color: $brand-color;
+    border-left: 4px solid $border-color-01;
+    padding-left: $spacing-unit * .5;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+
+    i, em {
+        font-style: normal;
+    }
+}
