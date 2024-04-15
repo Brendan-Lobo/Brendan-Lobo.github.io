@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# 2024
+## 2024
 
 >### ***Interactive TurtleBot***
 >
@@ -14,7 +14,7 @@ permalink: /projects/
 
 ---
 
-# 2023
+## 2023
 
 >#### ***SAE Level 3 Autonomous RC Rover***
 >
@@ -34,7 +34,7 @@ permalink: /projects/
 
 ---
 
-# 2020
+## 2020
 
 >#### ***Core-XY 3D-Printer***
 >

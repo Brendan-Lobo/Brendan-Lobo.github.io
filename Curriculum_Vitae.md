@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum_vitae/
 ---
 
-# Education
+## Education
 
 #### **B.A.Sc in Mechanical Engineering**
 
@@ -18,7 +18,7 @@ permalink: /curriculum_vitae/
 
 ---
 
-# Work Experience
+## Work Experience
 
 >#### ***Undergraduate Researcher***
 >
@@ -110,13 +110,13 @@ May - Aug. 2023, Sep. 2023 - Apr. 2024
 
 ---
 
-# Certifications
+## Certifications
 
 #### [**Certified SOLIDWORKS Associate in Mechanical Design**](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-JNW6HMXZB8)
 
 ---
 
-# Awards
+## Awards
 
 #### ***NSERC Undergraduate Student Research Award***
 
@@ -145,7 +145,7 @@ May - Aug. 2023, Sep. 2023 - Apr. 2024
 
 ---
 
-# Skills
+## Skills
 
 #### **Software**
 

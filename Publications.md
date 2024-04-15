@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# 2024
+## 2024
 
 >#### ***Excuse me, but can you repeat the question? Identifying correlations between thousands of engineering student questions and their impacts on the content and delivery of course materials***
 >
@@ -14,7 +14,7 @@ permalink: /publications/
 
 ---
 
-# 2019
+## 2019
 
 >#### ***Interpreting Student Responses Using Sentiment Analysis and Text-Analytics***
 >
