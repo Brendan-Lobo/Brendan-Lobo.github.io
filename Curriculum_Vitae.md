@@ -118,8 +118,8 @@ May - Aug. 2023, Sep. 2023 - Apr. 2024
 
 ## Awards
 
-#### ***NSERC Undergraduate Student Research Award***
-
+>#### ***NSERC Undergraduate Student Research Award***
+>
 >**Natural Sciences and Engineering Research Council**  
 >May - Aug. 2023
 >
@@ -135,7 +135,7 @@ May - Aug. 2023, Sep. 2023 - Apr. 2024
 >- *Conducted research in engineering education with the First Year Engineering Education Research Group.*
 >- *Total amount: $7000*
 
->#### ***FACULTY OF APPLIED SCIENCE AND ENGINEERING ADMISSION SCHOLARSHIP***
+>#### ***Faculty of Applied Science and Engineering Admission Scholarship***
 >
 >**University of Toronto**  
 >Sep. 2019
