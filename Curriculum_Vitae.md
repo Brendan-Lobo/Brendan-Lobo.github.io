@@ -118,6 +118,31 @@ May - Aug. 2023, Sep. 2023 - Apr. 2024
 
 # Awards
 
+#### ***NSERC Undergraduate Student Research Award***
+
+>**Natural Sciences and Engineering Research Council**  
+>May - Aug. 2023
+>
+>- *Scholarship awarded to conduct research at Guenther Laboratory in the fields of microfluidics and bioengineering with a focus on bioprinting.*
+>- *Total amount: $7500*
+
+>#### ***First Year Summer Research Fellowship***
+>
+>**University of Toronto**  
+>May 2020 - Aug. 2020
+>
+>- *Prestigious scholarship awarded to 7-12 first-year engineering students based on academic excellence and research potential.*
+>- *Conducted research in engineering education with the First Year Engineering Education Research Group.*
+>- *Total amount: $7000*
+
+>#### ***FACULTY OF APPLIED SCIENCE AND ENGINEERING ADMISSION SCHOLARSHIP***
+>
+>**University of Toronto**  
+>Sep. 2019
+>
+>- Admission scholarship to U of T’s TackOne, Undeclared engineering program based on academic merit.
+>- Total amount: $2000
+
 ---
 
 # Skills
