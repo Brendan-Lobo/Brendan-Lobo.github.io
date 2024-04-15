@@ -20,6 +20,8 @@ permalink: /projects/
 >
 >[**MIE444H1: Mechatronics Principles**](https://engineering.calendar.utoronto.ca/course/mie444h1)
 >
+>![MIE444 Rover](https://raw.githubusercontent.com/Brendan-Lobo/Brendan-Lobo.github.io/main/assets/MIE444/TapeBot-SunShot.jpg)
+>
 >*In this group project, we built a Bluetooth controlled rover from scratch. The digital circuitry was based on the Arduino Mega 2560 Rev3 which controlled two NEMA 11 stepper motors for motion and one servo for the actuation of the scoop. The control logic was written in Python while the "drivers" were written in Arduino C.*
 >
 >*The robot was required to achieve three tasks without collisions with its surroundings:*
