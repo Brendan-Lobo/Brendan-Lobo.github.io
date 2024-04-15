@@ -40,4 +40,4 @@ permalink: /projects/
 >
 >[**MIE243H1: Mechanical Engineering Design**](https://engineering.calendar.utoronto.ca/course/mie243h1)
 >
->*In this group project we designed and modelled an enclosed Core-XY 3D-Printer using SOLIDWORKS.*
+>*In this group project we designed and modelled an enclosed Core-XY 3D-printer using SOLIDWORKS.*
