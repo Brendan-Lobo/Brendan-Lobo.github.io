@@ -8,7 +8,7 @@
 layout: home
 title: Hi, my name is Brendan
 ---
-![Brendan Lobo Profile Photo]("https://raw.githubusercontent.com/Brendan-Lobo/Brendan-Lobo.github.io/main/assets/homepage/Brendan_Profile_Photo.jpghttps://github.com/Brendan-Lobo/Brendan-Lobo.github.io/blob/main/assets/homepage/Brendan_Profile_Photo.jpg")
+![Brendan Lobo Profile Photo](https://raw.githubusercontent.com/Brendan-Lobo/Brendan-Lobo.github.io/main/assets/homepage/Brendan_Profile_Photo.jpg)
 
 I'm a Canadian engineer with a passion for biomedical engineering and mechatronics. Feel free to explore the site and about my [professional expeiences](https://brendanlobo.ca/curriculum_vitae/), [projects](https://brendanlobo.ca/projects/), and [publications](https://brendanlobo.ca/publications/).
 
