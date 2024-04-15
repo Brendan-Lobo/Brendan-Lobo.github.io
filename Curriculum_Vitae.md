@@ -23,7 +23,7 @@ permalink: /curriculum_vitae/
 >#### **Undergraduate Researcher**
 >
 >***[Guenther Laboratory](https://guentherlab.mie.utoronto.ca/) - University of Toronto***  
->*May - Aug. 2023, Sep. 2023 - Apr. 2024*
+_May - Aug. 2023, Sep. 2023 - Apr. 2024_
 >
 >- Characterized the propagation of pressure waves through non-Newtonian fluids in microfluidic channels via particle image velocimetry (PIV).
 >- Created custom DC-electrical circuits to synchronize pressure wave generation with PIV measurements.
@@ -32,7 +32,7 @@ permalink: /curriculum_vitae/
 >#### **Assistant TA Training Platform Administrator**
 >
 >***[FASE](https://www.engineering.utoronto.ca/) - University of Toronto***  
->Jan. - Mar. 2021, Sep. - Nov. 2021, Aug. - Nov. 2022, Jan. - Dec. 2023
+>*Jan. - Mar. 2021, Sep. - Nov. 2021, Aug. - Nov. 2022, Jan. - Dec. 2023*
 >
 >- Reduced TA training evaluation times from 4 hours to a few seconds by coding a Python script that auto-evaluates a TA’s training completion based on their working group’s criteria.
 >- Converted the auto-evaluation Python script into an Excel macro using Visual Basic for Applications to prevent a drop in efficiency from future non-technical staff.
@@ -41,7 +41,7 @@ permalink: /curriculum_vitae/
 >#### **Teaching Assistant (TA)**
 >
 >***[APS100](https://engineering.calendar.utoronto.ca/course/aps100h1) - University of Toronto***  
->Sep. - Dec. 2022, Sep. - Dec. 2023
+><em>Sep. - Dec. 2022, Sep. - Dec. 2023</em>
 >
 >- Led and managed a tutorial class of over 40 first-year engineering students and provided guidance on topics such as time management, engineering ethics and academic integrity.
 >- Helped students find and navigate resources available at U of T such as academic advisors and learning strategists.
