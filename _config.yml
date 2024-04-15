@@ -1,5 +1,10 @@
-theme: minima
 title: Brendan Lobo
+
+author:
+  name: Brendan Lobo
+  email: b.lobo@mail.utoronto.ca
+
+theme: minima
 
 minima:
   skin: dark
@@ -12,6 +17,3 @@ header_pages:
   - Projects.md
   - Publications.md
 
-author:
-  name: Brendan Lobo
-  email: "b.lobo@mail.utoronto.ca"
