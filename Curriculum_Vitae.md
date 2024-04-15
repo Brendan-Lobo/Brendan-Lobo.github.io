@@ -6,7 +6,7 @@ permalink: /curriculum_vitae/
 
 # Education
 
-#### **B.A.Sc in Mechanical Engineering**
+#### ***B.A.Sc in Mechanical Engineering***
 
 *University of Toronto*
 *Sep. 2019 - Apr. 2024*
