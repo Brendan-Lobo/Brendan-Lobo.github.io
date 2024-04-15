@@ -6,7 +6,7 @@ permalink: /publications/
 
 # 2024
 
->#### ***Excuse me, but can you repeat the question? Identifying correlations between thousands of engineering student questions and their impacts on the content and delivery of course materials***
+>#### **Excuse me, but can you repeat the question? Identifying correlations between thousands of engineering student questions and their impacts on the content and delivery of course materials**
 >
 >*[Proceedings of the Canadian Engineering Education Association (CEEA)](https://ceea.ca/)*
 >
@@ -16,7 +16,7 @@ permalink: /publications/
 
 # 2019
 
->#### ***Interpreting Student Responses Using Sentiment Analysis and Text-Analytics***
+>#### **Interpreting Student Responses Using Sentiment Analysis and Text-Analytics**
 >
 >*[Proceedings of the Canadian Engineering Education Association (CEEA)](https://ceea.ca/)*
 >
