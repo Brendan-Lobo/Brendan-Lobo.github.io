@@ -20,44 +20,44 @@ permalink: /curriculum_vitae/
 
 # Work Experience
 
-#### **Undergraduate Researcher**
+>#### **Undergraduate Researcher**
+>
+>*[Guenther Laboratory](https://guentherlab.mie.utoronto.ca/) - University of Toronto*
+>
+>*May - Aug. 2023, Sep. 2023 - Apr. 2024*
+>
+>- Characterized the propagation of pressure waves through non-Newtonian fluids in microfluidic channels via particle image velocimetry (PIV).
+>- Created custom DC-electrical circuits to synchronize pressure wave generation with PIV measurements.
+>- Utilized SU-8 soft-lithography, FDM & multi-jet 3D printing, laser cutting, and manual machining to construct experimental setups designed with SOLIDWORKS and AutoCAD.
 
-*[Guenther Laboratory](https://guentherlab.mie.utoronto.ca/) - University of Toronto*
+>#### **Assistant TA Training Platform Administrator**
+>
+>*[FASE](https://www.engineering.utoronto.ca/) - University of Toronto*
+>
+>^*Jan. - Feb. 2021, Feb. - Mar. 2021, Sep. - Nov. 2021, Nov. 2021, Aug. - Nov. 2022, Jan. - Apr. 2023, May - Aug. 2023, Aug. - Sep. 2023, Sep. - Nov. 2023, Nov. - Dec. 2023*^
+>
+>- Reduced TA training evaluation times from 4 hours to a few seconds by coding a Python script that auto-evaluates a TA’s training completion based on their working group’s criteria.
+>- Converted the auto-evaluation Python script into an Excel macro using Visual Basic for Applications to prevent a drop in efficiency from future non-technical staff.
+>- Co-created an interactive training platform using the Canvas LMS for virtual training of engineering TAs
 
-*May - Aug. 2023, Sep. 2023 - Apr. 2024*
+>#### **Teaching Assistant (TA)**
+>
+>*[APS100](https://engineering.calendar.utoronto.ca/course/aps100h1) - University of Toronto*
+>
+>*Sep. - Dec. 2022, Sep. - Dec. 2023*
+>
+>- Led and managed a tutorial class of over 40 first-year engineering students and provided guidance on topics such as time management, engineering ethics and academic integrity.
+>- Helped students find and navigate resources available at U of T such as academic advisors and learning strategists.
+>- Provided training for new Teaching Assistants regarding facilitation and classroom management.
 
-- Characterized the propagation of pressure waves through non-Newtonian fluids in microfluidic channels via particle image velocimetry (PIV).
-- Created custom DC-electrical circuits to synchronize pressure wave generation with PIV measurements.
-- Utilized SU-8 soft-lithography, FDM & multi-jet 3D printing, laser cutting, and manual machining to construct experimental setups designed with SOLIDWORKS and AutoCAD.
-
-#### **Assistant TA Training Platform Administrator**
-
-*[FASE](https://www.engineering.utoronto.ca/) - University of Toronto*
-
-*Jan. - Feb. 2021, Feb. - Mar. 2021, Sep. - Nov. 2021, Nov. 2021, Aug. - Nov. 2022, Jan. - Apr. 2023, May - Aug. 2023, Aug. - Sep. 2023, Sep. - Nov. 2023, Nov. - Dec. 2023*
-
-- Reduced TA training evaluation times from 4 hours to a few seconds by coding a Python script that auto-evaluates a TA’s training completion based on their working group’s criteria.
-- Converted the auto-evaluation Python script into an Excel macro using Visual Basic for Applications to prevent a drop in efficiency from future non-technical staff.
-- Co-created an interactive training platform using the Canvas LMS for virtual training of engineering TAs
-
-#### **Teaching Assistant (TA)**
-
-*[APS100](https://engineering.calendar.utoronto.ca/course/aps100h1) - University of Toronto*
-
-*Sep. - Dec. 2022, Sep. - Dec. 2023*
-
-- Led and managed a tutorial class of over 40 first-year engineering students and provided guidance on topics such as time management, engineering ethics and academic integrity.
-- Helped students find and navigate resources available at U of T such as academic advisors and learning strategists.
-- Provided training for new Teaching Assistants regarding facilitation and classroom management.
-
-#### **Senior Student Analyst - First Year Curriculum**
-
-*[FYEER Group](https://istep.utoronto.ca/people/chirag-variawa/) - University of Toronto*
-
-*May - Aug. 2021, May - Aug. 2022, Oct. 2022 - Apr. 2023*
-
-- [Investigated](https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070) how large-language models can be used to derive insight from unprompted student questions on Piazza discussion boards.
-- Analyzed survey and discussion data using tools such as Pytorch, Hugging Face Transformers, and ChatGPT.
+> #### **Senior Student Analyst - First Year Curriculum**
+>
+> *[FYEER Group](https://istep.utoronto.ca/people/chirag-variawa/) - University of Toronto*
+>
+> *May - Aug. 2021, May - Aug. 2022, Oct. 2022 - Apr. 2023*
+>
+> - [Investigated](https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070) how large-language models can be used to derive insight from unprompted student questions on Piazza discussion boards.
+> - Analyzed survey and discussion data using tools such as Pytorch, Hugging Face Transformers, and ChatGPT.
 
 #### **Student Analyst - First Year Curriculum**
 
