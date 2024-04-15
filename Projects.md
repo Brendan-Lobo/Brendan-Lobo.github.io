@@ -26,9 +26,9 @@ permalink: /projects/
 >
 >*The robot was required to achieve three tasks without collisions with its surroundings:*
 >
->1. *Locate its position in a known maze.*
->2. *Travel to a known loading zone.*
->3. *Pick up a block and deliver it to a known drop-off point.*
+>1. Locate its position in a known maze.*
+>2. Travel to a known loading zone.*
+>3. Pick up a block and deliver it to a known drop-off point.*
 >
 >*Tasks one was achieved autonomously using the control code. Tasks two and three was achieved manually using an on-screen GUI that displayed the robot's current position and its sensor readings.*
 
