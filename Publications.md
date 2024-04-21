@@ -16,7 +16,7 @@ permalink: /publications/
 
 ## 2019
 
->#### ***Interpreting Student Responses Using Sentiment Analysis and Text-Analytics***
+>#### **Interpreting Student Responses Using Sentiment Analysis and Text-Analytics**
 >
 >[**Proceedings of the Canadian Engineering Education Association (CEEA)**](https://ceea.ca/)
 >
