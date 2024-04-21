@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## 2024
 
->### ***Interactive TurtleBot***
+>#### ***Interactive TurtleBot***
 >
 >[**MIE443H1: Mechatronics Systems: Design and Integration**](https://engineering.calendar.utoronto.ca/course/mie443h1)
 >

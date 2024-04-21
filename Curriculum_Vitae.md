@@ -118,8 +118,8 @@ permalink: /curriculum_vitae/
 
 ## Awards
 
-#### ***NSERC Undergraduate Student Research Award***
-
+>#### ***NSERC Undergraduate Student Research Award***
+>
 >**Natural Sciences and Engineering Research Council**  
 >May - Aug. 2023
 >
@@ -129,19 +129,19 @@ permalink: /curriculum_vitae/
 >#### ***First Year Summer Research Fellowship***
 >
 >**University of Toronto**  
->May 2020 - Aug. 2020
+>May - Aug. 2020
 >
 >- *Prestigious scholarship awarded to 7-12 first-year engineering students based on academic excellence and research potential.*
 >- *Conducted research in engineering education with the First Year Engineering Education Research Group.*
 >- *Total amount: $7000*
 
->#### ***FACULTY OF APPLIED SCIENCE AND ENGINEERING ADMISSION SCHOLARSHIP***
+>#### ***Faculty of Applied Science and Engineering Admission Scholarship***
 >
 >**University of Toronto**  
 >Sep. 2019
 >
->- Admission scholarship to U of T’s TackOne, Undeclared engineering program based on academic merit.
->- Total amount: $2000
+>- *Admission scholarship to U of T’s TackOne, Undeclared engineering program based on academic merit.*
+>- *Total amount: $2000*
 
 ---
 
