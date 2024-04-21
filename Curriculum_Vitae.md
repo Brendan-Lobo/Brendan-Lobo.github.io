@@ -6,9 +6,9 @@ permalink: /curriculum_vitae/
 
 ## Education
 
-#### **B.A.Sc in Mechanical Engineering**
+### B.A.Sc in Mechanical Engineering
 
-***University of Toronto***  
+**University of Toronto**  
 *Sep. 2019 - Apr. 2024*
 
 - Mechatronics Stream + Bioengineering Stream
@@ -20,14 +20,14 @@ permalink: /curriculum_vitae/
 
 ## Work Experience
 
->#### ***Undergraduate Researcher***
+>### Undergraduate Researcher
 >
 >**[Guenther Laboratory](https://guentherlab.mie.utoronto.ca/) - University of Toronto**  
-May - Aug. 2023, Sep. 2023 - Apr. 2024
+>*May - Aug. 2023, Sep. 2023 - Apr. 2024*
 >
->- *Characterized the propagation of pressure waves through non-Newtonian fluids in microfluidic channels via particle image velocimetry (PIV).*
->- *Created custom DC-electrical circuits to synchronize pressure wave generation with PIV measurements.*
->- *Utilized SU-8 soft-lithography, FDM & multi-jet 3D printing, laser cutting, and manual machining to construct experimental setups designed with SOLIDWORKS and AutoCAD.*
+>- Characterized the propagation of pressure waves through non-Newtonian fluids in microfluidic channels via particle image velocimetry (PIV).
+>- Created custom DC-electrical circuits to synchronize pressure wave generation with PIV measurements.
+>- Utilized SU-8 soft-lithography, FDM & multi-jet 3D printing, laser cutting, and manual machining to construct experimental setups designed with SOLIDWORKS and AutoCAD.
 
 >#### ***Assistant TA Training Platform Administrator***
 >
