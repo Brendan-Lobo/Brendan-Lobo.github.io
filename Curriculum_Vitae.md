@@ -58,7 +58,7 @@ permalink: /curriculum_vitae/
 >#### **Student Analyst - First Year Curriculum**
 >
 >**[FYEER Group](https://istep.utoronto.ca/people/chirag-variawa/) - University of Toronto**  
->*May - Feb. 2021*
+>*May 2020 - Feb. 2021*
 >
 >- [Investigated](https://doi.org/10.24908/pceea.vi0.14866) how the Expectancy Value Theorem can be implemented with NVivo to gain insight into student motivation levels by analyzing class discussion boards.
 
@@ -77,7 +77,7 @@ permalink: /curriculum_vitae/
 
 >#### **Webmaster**
 >
->**[HiSkule](https://hiskule.skule.ca/home/)**  
+>**[Hi-Skule](https://hiskule.skule.ca/home/)**  
 >*Jul. 2022 - Jun. 2023*
 >
 >- Completely redesigned the club website using WordPress by modernizing the aesthetic and providing a more intuitive user interface.
