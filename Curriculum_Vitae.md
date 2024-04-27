@@ -84,7 +84,7 @@ permalink: /curriculum_vitae/
 >- Maintained and updated the club website to attract hundreds of students to Hi-Skule engineering outreach events throughout the year.
 >- Mentored and encouraged high school students at events to pursue engineering at U of T by leading hands-on activities.
 
->#### ***Member - Mechanical Powertrain***
+>#### **Member - Mechanical Powertrain**
 >
 >**[University of Toronto Formula Racing Team](https://fsaeutoronto.ca/)**  
 >*Aug. 2021 - May 2022*

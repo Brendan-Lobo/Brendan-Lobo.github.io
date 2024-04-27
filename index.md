@@ -10,6 +10,6 @@ title: Hi, my name is Brendan
 ---
 ![Brendan Lobo Profile Photo](https://raw.githubusercontent.com/Brendan-Lobo/Brendan-Lobo.github.io/main/assets/homepage/Brendan_Profile_Photo.jpg)
 
-I'm a Canadian engineer with a passion for biomedical engineering and mechatronics. Feel free to explore the site and about my [professional experiences](https://brendanlobo.ca/curriculum_vitae/), [projects](https://brendanlobo.ca/projects/), and [publications](https://brendanlobo.ca/publications/).
+I'm a Canadian engineer with a passion for biomedical engineering and mechatronics. Explore the site to learn about my [professional experience](https://brendanlobo.ca/curriculum_vitae/), [projects](https://brendanlobo.ca/projects/), and [publications](https://brendanlobo.ca/publications/).
 
-If you want to reach out, don't hesitate! Please email me at: [b.lobo@mail.utoronto.ca](mailto:b.lobo@mail.utoronto.ca)
+If you want to reach out, please don't hesitate! Email me at: [b.lobo@mail.utoronto.ca](mailto:b.lobo@mail.utoronto.ca)
