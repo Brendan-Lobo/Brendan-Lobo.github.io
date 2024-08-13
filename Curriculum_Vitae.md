@@ -23,7 +23,7 @@ permalink: /curriculum_vitae/
 >#### **Undergraduate Researcher**
 >
 >**[Guenther Laboratory](https://guentherlab.mie.utoronto.ca/) - University of Toronto**  
->*May - Aug. 2023, Sep. 2023 - Apr. 2024*
+>*May - Aug. 2023, Jan. 2024 - Apr. 2024*
 >
 >- Characterized the propagation of pressure waves through non-Newtonian fluids in microfluidic channels via particle image velocimetry (PIV).
 >- Created custom DC-electrical circuits to synchronize pressure wave generation with PIV measurements.
