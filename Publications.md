@@ -10,7 +10,7 @@ permalink: /publications/
 >
 >[**Proceedings of the Canadian Engineering Education Association (CEEA)**](https://ceea.ca/)
 >
->Read Now: [https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070](https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070)
+>Read Now: [https://doi.org/10.24908/pceea.2023.17070](https://doi.org/10.24908/pceea.2023.17070)
 
 ---
 
