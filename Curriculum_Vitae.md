@@ -52,7 +52,7 @@ permalink: /curriculum_vitae/
 >**[FYEER Group](https://istep.utoronto.ca/people/chirag-variawa/) - University of Toronto**  
 >*May - Aug. 2021, May - Aug. 2022, Oct. 2022 - Apr. 2023*
 >
->- [Investigated](https://ojs.library.queensu.ca/index.php/PCEEA/article/view/17070) how large-language models can be used to derive insight from unprompted student questions on Piazza discussion boards.
+>- [Investigated](https://doi.org/10.24908/pceea.2023.17070) how large-language models can be used to derive insight from unprompted student questions on Piazza discussion boards.
 >- Analyzed survey and discussion data using tools such as Pytorch, Hugging Face Transformers, and ChatGPT.
 
 >#### **Student Analyst - First Year Curriculum**
