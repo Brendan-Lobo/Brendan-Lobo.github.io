@@ -6,15 +6,20 @@ permalink: /curriculum_vitae/
 
 ## Education
 
-#### **B.A.Sc in Mechanical Engineering**
+>#### **M.A.Sc in Mechanical Engineering**
+>
+>**University of Toronto**  
+>*Sep. 2024 - Present*
 
-**University of Toronto**  
-*Sep. 2019 - Apr. 2024*
-
-- Mechatronics Stream + Bioengineering Stream
-- Minor in Robotics and Mechatronics
-- Certificate in Engineering Business
-- Certificate in Engineering Leadership
+>#### **B.A.Sc in Mechanical Engineering**
+>
+>**University of Toronto**  
+>*Sep. 2019 - Apr. 2024*
+>
+>- Mechatronics Stream + Bioengineering Stream
+>- Minor in Robotics and Mechatronics
+>- Certificate in Engineering Business
+>- Certificate in Engineering Leadership
 
 ---
 
