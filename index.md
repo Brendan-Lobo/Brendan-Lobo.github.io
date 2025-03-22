@@ -6,9 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: false
+title: Hi, my name is Brendan
 ---
-# Hi, my name is Brendan
 ![Brendan Lobo Profile Photo](https://raw.githubusercontent.com/Brendan-Lobo/Brendan-Lobo.github.io/main/assets/homepage/Brendan_Profile_Photo.jpg)
 
 I'm a Canadian engineer with a passion for biomedical engineering and mechatronics. Explore the site to learn about my [professional experience](https://brendanlobo.ca/curriculum_vitae/), [projects](https://brendanlobo.ca/projects/), and [publications](https://brendanlobo.ca/publications/).
