@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: null
+title: false
 ---
 # Hi, my name is Brendan
 ![Brendan Lobo Profile Photo](https://raw.githubusercontent.com/Brendan-Lobo/Brendan-Lobo.github.io/main/assets/homepage/Brendan_Profile_Photo.jpg)
