@@ -22,7 +22,7 @@ permalink: /projects/
 >
 >![MIE444 Rover](https://raw.githubusercontent.com/Brendan-Lobo/Brendan-Lobo.github.io/main/assets/MIE444/TapeBot-SunShot.jpg)
 >
->In this group project, we built a Bluetooth controlled rover from scratch. The digital circuitry was based on the Arduino Mega 2560 Rev3 which controlled two NEMA 11 stepper motors for motion and one servo for the actuation of the scoop. The control logic was written in Python while hardware drivers were written in Arduino C.
+>In this group project, we built a Bluetooth controlled rover from scratch. The digital circuitry was based on the Arduino Mega 2560 Rev3 which controlled two NEMA 11 stepper motors for motion and one servo for the actuation of the scoop. The code for autonomous driving and manual control was written in Python while hardware drivers were written in Arduino C.
 >
 >The robot was required to achieve three tasks without collisions with its surroundings:
 >
@@ -30,7 +30,7 @@ permalink: /projects/
 >2. Travel to a known loading zone.
 >3. Pick up a block and deliver it to a known drop-off point.
 >
->Tasks one was achieved autonomously using the control code. Tasks two and three was achieved manually using an on-screen GUI that displayed the robot's current position and its sensor readings.
+>Task one was achieved autonomously while tasks two and three were achieved manually using an on-screen GUI that displayed the robot's current position and its sensor readings.
 
 ---
 
