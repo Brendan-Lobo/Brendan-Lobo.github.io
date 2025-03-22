@@ -8,8 +8,9 @@ permalink: /curriculum_vitae/
 
 >#### **M.A.Sc in Mechanical Engineering**
 >
->**University of Toronto**  
+>**[Young IBMT Lab](https://ibmt.mie.utoronto.ca/) - University of Toronto**  
 >*Sep. 2024 - Present*
+>- Focus in the fields of tissue engineering and microfluidics
 
 >#### **B.A.Sc in Mechanical Engineering**
 >
